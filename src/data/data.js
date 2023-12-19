@@ -1,34 +1,35 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
+import netflix from '../assets/projects/netflix.png'
+import onlineshoestore from '../assets/projects/onlineshoestore.png'
+import Portfolio from '../assets/projects/Portfolio.png'
 
 export const data=[
     {
         id:1,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
+        name:"Nike Online Store",
+        image:onlineshoestore,
+        github:"https://github.com/subhankardas90/React.OnlineShoeStore",
+        live:"https://onlineshoestore-sd.web.app/",
     },
     {
         id:2,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
+        name:"Netflix clone",
+        image:netflix,
+        github:"https://github.com/subhankardas90/React.NetflixGPT",
+        live:"https://reactnetflixgpt.web.app/",
     },
     {
         id:3,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
+        name:"Youtube clone",
+        image:netflix,
+        github:"https://github.com/subhankardas90/React.YoutubeClone",
         live:"",
     },
     {
         id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
+        name:"Portfolio Website",
+        image:Portfolio,
+        github:"https://github.com/subhankardas90/React.Portfolio",
+        live:"https://subhankarportfolio-5e68f.web.app/",
     },
 
 
